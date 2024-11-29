@@ -117,7 +117,7 @@ body {
     grid-template-columns: 1fr 1fr 1fr 1fr;
   }
 }
-
+/* 
 .circle {
   width: 617px;
   height: 617px;
@@ -152,7 +152,7 @@ body {
   -webkit-backface-visibility: hidden;
   -webkit-perspective: 1000;
   -webkit-transform: translate3d(0, 0, 0);
-}
+} */
 
 .page-section {
   background-color: #FFF;
